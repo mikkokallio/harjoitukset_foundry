@@ -1,7 +1,7 @@
 # Ympäristön valmistelu VS Codessa
 
 1. Avaa VS Codessa uusi tyhjä kansio.
-2. Kloonaa tämä repo sinne: ``.
+2. Kloonaa tämä repo sinne.
 3. Luo virtuaaliympäristö: `python -m venv venv`
 4. Aktivoi ympäristö: `.\venv\Scripts\Activate.ps1`
 
